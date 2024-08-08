@@ -1,3 +1,5 @@
+<script src="home.js"></script>
+
 setInterval(hello, 5000);
 
 function hello() {
