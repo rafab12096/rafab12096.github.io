@@ -60,7 +60,7 @@
 
 .column2 {
   width: 43%;
-  text-alin: center;
+  text-align: center;
 }
 
 * {box-sizing: border-box;}
@@ -68,7 +68,7 @@
 /* Style the input container */
 .input-container {
   display: flex;
-  width: 100%;
+  width: 90%;
   margin-bottom: 15px;
 }
 
