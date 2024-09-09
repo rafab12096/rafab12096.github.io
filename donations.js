@@ -1,5 +1,5 @@
 function popup() {
-  const messages = ["You're all set. Thank you for your donation!", "Your donation has been sent. Thank you!", "You have submitted your donation successfully.", "hi", "..."];
+  const messages = ["You're all set. Thank you for your donation! You will receive an invoice via email shortly.", "Your donation has been sent. Thank you! You will receive an invoice via email shortly.", "You have submitted your donation successfully. You will recieve an invoice via email shortly."];
   let randomnum = getRandomInt(5);
   if (randomnum == 0) {
     alert(messages[0]);
